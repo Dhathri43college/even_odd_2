@@ -48,4 +48,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: aishhwarya/even-odd-checker:latest
+        # Replace YOUR_DOCKERHUB_USERNAME with your actual Docker Hub username
+        tags: dhathri43college/even-odd-checker:latest
